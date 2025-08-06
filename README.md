@@ -47,3 +47,7 @@
   </tr>
 </table>
 </div>
+
+<p align="center">
+ <img src="./Bottom.svg" width="100%" />
+</p>
