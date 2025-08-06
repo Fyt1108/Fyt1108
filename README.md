@@ -3,7 +3,7 @@
 </div>
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amhjZTFrbG5jZDdqNTlveXA5ZmU3NWtpZDlweTB1eTZwbjNtNDNlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eNepuvrl0tp7rX3erc/giphy.webp" />
 
 - 🔭  Hi, I’m YT—a lifelong learner who turns curiosity into code and caffeine into commits.  
   
@@ -14,18 +14,9 @@
 - 📈 Growth mindset on repeat: fail fast, learn faster, ship fastest.  
   
 
-- 🤝 Open-source advocate—because the best code is the code we write together.  
+- 🤝 Open-source advocate—because the best code is the code we write together.
 
-
-</td><td valign="top" width="50%">
-
-![Greetings](https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amhjZTFrbG5jZDdqNTlveXA5ZmU3NWtpZDlweTB1eTZwbjNtNDNlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eNepuvrl0tp7rX3erc/giphy.webp)  
-
-
-</td></tr></table>  
-
-<br/>  
-
+<br clear="both"/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -35,7 +26,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-<br/>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>    
@@ -44,15 +34,16 @@
 
 <br/>  
 
-
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fyt1108&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyt1108&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-<br />
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fyt1108&show_icons=true&count_private=true&hide_border=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyt1108&hide_border=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
+</div>
