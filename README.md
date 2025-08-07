@@ -36,18 +36,13 @@
 
 ## Github Stats  
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fyt1108&show_icons=true&count_private=true&hide_border=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyt1108&hide_border=true&layout=compact" width="100%" />
-    </td>
-  </tr>
-</table>
-</div>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=160 align="center" src="https://github-readme-stats-dun-omega.vercel.app/api?username=Fyt1108&show_icons=true&hide_border=true&theme=tokyonight"/>
+  </a>   
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=190 align="center" src="https://github-readme-stats-dun-omega.vercel.app/api/top-langs/?username=Fyt1108&hide_border=true&layout=compact&theme=catppuccin_latte"/>
+  </a>
+</div>  
 <p align="center">
  <img src="./Bottom.svg" width="100%" />
 </p>
